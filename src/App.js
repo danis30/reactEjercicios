@@ -9,7 +9,7 @@ function App() {
     <div className="fondo">
       <h1>{nombre.edad}</h1>
      <img src={imagen} className="img"/>
-     <div>{caja}</div>
+     
      <input value={nombre[1].name}/>
       <br/>
     </div>
